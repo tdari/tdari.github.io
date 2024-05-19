@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:42719/tags/first/</loc>
+    <loc>https://example.org/tags/first/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42719/</loc>
+    <loc>https://example.org/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42719/posts/</loc>
+    <loc>https://example.org/posts/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42719/tags/second/</loc>
+    <loc>https://example.org/tags/second/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42719/tags/</loc>
+    <loc>https://example.org/tags/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42719/tags/test/</loc>
+    <loc>https://example.org/tags/test/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42719/posts/test-post-1/</loc>
+    <loc>https://example.org/posts/test-post-1/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42719/posts/test-post-2/</loc>
+    <loc>https://example.org/posts/test-post-2/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42719/g-xxxxxxxxx/</loc>
+    <loc>https://example.org/g-xxxxxxxxx/</loc>
   </url>
 </urlset>
