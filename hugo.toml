@@ -1,0 +1,59 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'tdari'
+theme = 'typo'
+
+[taxonomies]
+tag = 'tags'
+
+# Google analytics code
+googleAnalytics = "G-xxxxxxxxx"
+
+[params]
+# Appearance settings
+theme = 'light'
+
+# Intro on main page, content is markdown
+homeIntroTitle = ''
+homeIntroContent = """
+Hey there, I’m Tunahan Darı. I don’t know what has brought you here, but I hope you have a good time.
+"""
+
+# Collection to display on home
+homeCollectionTitle = 'Posts'
+homeCollection = 'posts'
+
+# Lists parameters
+paginationSize = 100
+listSummaries = true
+listDateFormat = '2 Jan 2006'
+
+# Breadcrumbs
+breadcrumbs = true
+
+# Social icons
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/tdari/"
+
+[[params.social]]
+name = "medium"
+url = "https://medium.com/@tdari"
+
+[[params.social]]
+name = "github"
+url = "https://github.com/tdari"
+
+# Main menu pages
+[[params.menu]]
+name = "home"
+url = "/"
+
+[[params.menu]]
+name = "posts"
+url = "/posts"
+
+# Syntax highligth on code blocks
+[markup]
+[markup.highlight]
+style = 'algol'
